@@ -22,7 +22,7 @@ FUNC 1 (HIGH LEVEL) **--CALLS-->**<br> FUNC 2 (MED-LEVEL) **--CALLS-->**<br> FUN
 
 Switches, by their nature do N things. It's hard to make a function do ONE thing with a switch.
 
-[BAD EXAMPLE using switch/case](src/main/java/com/sjmillington/functions/Payroll.java)
+[BAD EXAMPLE using switch/case](src/main/java/com/sjmillington/functions/bad)
 
 The answer is to bury the switch in an abstract factory, and never expose it.
 
