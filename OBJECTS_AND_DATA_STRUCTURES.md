@@ -19,7 +19,7 @@ public interface Vehicle{
 ```$xslt
 //abstract example
 public interface Vehicle{
-  double getPerfectFuelRemaining();
+  double getPercentFuelRemaining();
 }
 ``` 
 

@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d9d554-bbe0-4429-a6fb-58e2f60569a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/polymorphic/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/polymorphic/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/polymorphic/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/procedural/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/procedural/Geometry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/procedural/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OBJECTS_AND_DATA_STRUCTURES.md" beforeDir="false" afterPath="$PROJECT_DIR$/OBJECTS_AND_DATA_STRUCTURES.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/OBJECTS_AND_DATA_STRUCTURES.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="126">
-                <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+              <first_editor relative-caret-position="315">
+                <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -215,7 +208,7 @@
     <frame x="42" y="-14" width="1879" height="1095" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25504088" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25504088" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -231,7 +224,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32186234" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32186234" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" visible="true" weight="0.3299595" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -513,8 +506,8 @@
     <entry file="file://$PROJECT_DIR$/OBJECTS_AND_DATA_STRUCTURES.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="126">
-            <caret line="45" column="21" lean-forward="true" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+          <first_editor relative-caret-position="315">
+            <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
