@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56d9d554-bbe0-4429-a6fb-58e2f60569a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ERROR_HANDLING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BOUNDARIES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UNIT_TESTING.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -31,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -40,11 +41,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ERROR_HANDLING.md">
+        <entry file="file://$PROJECT_DIR$/UNIT_TESTING.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="590">
-                <caret line="117" selection-start-line="117" selection-end-line="117" />
+                <caret line="89" selection-start-line="89" selection-end-line="89" />
               </first_editor>
               <second_editor />
             </state>
@@ -96,8 +97,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/polymorphic/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/sjmillington/objects/polymorphic/Circle.java" />
         <option value="$PROJECT_DIR$/OBJECTS_AND_DATA_STRUCTURES.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/ERROR_HANDLING.md" />
+        <option value="$PROJECT_DIR$/BOUNDARIES.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/UNIT_TESTING.md" />
       </list>
     </option>
   </component>
@@ -487,21 +490,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ERROR_HANDLING.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="590">
             <caret line="117" selection-start-line="117" selection-end-line="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOUNDARIES.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="590">
+            <caret line="58" selection-start-line="58" selection-end-line="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UNIT_TESTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="590">
+            <caret line="89" selection-start-line="89" selection-end-line="89" />
           </first_editor>
           <second_editor />
         </state>
