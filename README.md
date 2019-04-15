@@ -1,4 +1,4 @@
-# Clean code examples
+# Clean Code!
 
 - [Meaningful Names](NAMING.md)
 - [Functions](FUNCTIONS.md)
@@ -8,6 +8,7 @@
 - [Error Handling](ERROR_HANDLING.md)
 - [Boundaries](BOUNDARIES.md)
 - [Unit Testing](UNIT_TESTING.md)
+- [Classes](CLASSES.md)
 
 
 
